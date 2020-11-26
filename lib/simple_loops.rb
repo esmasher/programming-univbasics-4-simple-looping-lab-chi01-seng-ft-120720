@@ -1,4 +1,4 @@
-def loop_message_five_times
+def loop_message_five_times (message)
   message = "Hello World!"
   count = 0
   while count < 5 do
