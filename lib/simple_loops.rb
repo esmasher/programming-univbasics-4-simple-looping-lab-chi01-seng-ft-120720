@@ -13,6 +13,7 @@ puts loop_message_n_times
   a += 1
 end
 
-def output_array = ["Be yourself; everyone else is already taken. - Oscar Wilde"]
+def output_array 
+   ["Be yourself; everyone else is already taken. - Oscar Wilde"]
 puts output_array
 end
